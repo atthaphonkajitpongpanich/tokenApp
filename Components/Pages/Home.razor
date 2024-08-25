@@ -1,0 +1,16 @@
+﻿@page "/"
+@rendermode InteractiveServer
+
+<PageTitle>Home</PageTitle>
+<p role="status">token: @token</p>
+
+<button class="btn btn-primary" @onclick="tokenMSAL">Click me</button>
+
+@code {
+    private string token = "";
+
+    private void tokenMSAL()
+    {
+        token = MSAL.MSALToken();
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LI1KamMD62I=",
+  "success": true,
+  "projectFilePath": "D:\\Microsoft_Projects\\test\\tokenApp\\tokenApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-atthaphonk\\.nuget\\packages\\microsoft.identity.client\\4.64.0\\microsoft.identity.client.4.64.0.nupkg.sha512",
+    "C:\\Users\\v-atthaphonk\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",
+    "C:\\Users\\v-atthaphonk\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\v-atthaphonk\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Microsoft_Projects\\test\\tokenApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\tokenApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\tokenApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Microsoft_Projects\\test\\tokenApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Microsoft_Projects\\test\\tokenApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Microsoft_Projects\\test\\tokenApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Microsoft_Projects\\test\\tokenApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.tokenApp.props",
+      "PackagePath": "build\\tokenApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.tokenApp.props",
+      "PackagePath": "buildMultiTargeting\\tokenApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.tokenApp.props",
+      "PackagePath": "buildTransitive\\tokenApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.tokenApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
